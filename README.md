@@ -1,1 +1,10 @@
-# curso-git-github
+# curso-git-GitHub
+
+
+
+Pessoas Participantes:
+
+
+
+* Matheus Queiroz
+* Téo Calvo
